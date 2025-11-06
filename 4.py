@@ -1,0 +1,1 @@
+print ("Nasr abo kweder")
